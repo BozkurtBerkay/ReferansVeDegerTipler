@@ -9,7 +9,7 @@ namespace ReferansVeDegerTipler
             //String referans tiptir çalışma şekli Değer Tip.
             string ReferansStringTipBir = "Eskişehir"; 
 
-            string ReferansStringTipIki = "Ankara";
+            string ReferansStringTipIki = "Antalya";
 
             ReferansStringTipIki = ReferansStringTipBir;
 
